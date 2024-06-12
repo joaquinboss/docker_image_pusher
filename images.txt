@@ -1,5 +1,7 @@
 alpine
 kasmweb/nginx:1.25.3
 secretflow/capsule-manager-sim-ubuntu22.04:latest
-secretflow/capsule-manager-sgx-ubuntu22.04:latest
 secretflow/trustedflow-release-ubuntu22.04:latest
+secretflow/teeapps-sim-ubuntu22.04:latest
+secretflow/capsule-manager-sgx-ubuntu22.04:latest
+secretflow/teeapps-sgx-ubuntu22.04:latest
